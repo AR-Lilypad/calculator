@@ -12,7 +12,7 @@
     font-size: 16px;
     color: #777;
     text-align: center;
-    background-image: url("../images/blueBkgrnd.png")
+    background-image: url("../images/oriental-tiles.png")
   }
 
   #title {
@@ -21,6 +21,7 @@
       font-family: 'Bungee Inline';
       font-size: 2em;
       color: #dedfe0;
+      letter-spacing: 1.5px;
   }
 
   .instructions {
