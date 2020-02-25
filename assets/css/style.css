@@ -16,7 +16,7 @@
   }
 
   #title {
-      margin-top: 100px;
+      margin-top: 150px;
       text-align: center;
       font-family: 'Bungee Inline';
       font-size: 2em;
@@ -31,7 +31,7 @@
   }
 
   #displayResults {
-    width: 210px;
+    width: 318px;
     min-height: 50px;
     margin: 0 auto;
     margin-top: 25px;
@@ -45,7 +45,7 @@
   
 
   #number1, #number2 {
-      width: 100px;
+      width: 156px;
       height: 100px;
       margin: 2px;
       font-size: 1em;
@@ -54,7 +54,7 @@
   }
 
   button {
-    width: 45px;
+    width: 73px;
     height: 45px;
     margin: 2px;
     font-size: 1.5em;
@@ -66,7 +66,7 @@
   }
 
   #clearBtn {
-    width: 90px; 
+    width: 110px; 
     height: 45px;
     font-size: 1.5em;
 } 
