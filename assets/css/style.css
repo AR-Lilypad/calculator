@@ -12,7 +12,7 @@
     font-size: 16px;
     color: #777;
     text-align: center;
-    background-image: url(/assets/images/blueBkgrnd.png);
+    background-image: url("../images/blueBkgrnd.png")
   }
 
   #title {
