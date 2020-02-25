@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     /* Box-model */
     box-sizing: border-box;
@@ -69,4 +70,77 @@
     height: 45px;
     font-size: 1.5em;
 } 
+=======
+* {
+    /* Box-model */
+    box-sizing: border-box;
+  
+    /* Positioning */
+    margin: 0;
+  }
+
+  body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    /* Typography */
+    font-size: 16px;
+    color: #777;
+    text-align: center;
+    background-image: url(assets/images/blueBkgrnd.png);
+  }
+
+  #title {
+      margin-top: 100px;
+      text-align: center;
+      font-family: 'Bungee Inline';
+      font-size: 2em;
+      color: #dedfe0;
+  }
+
+  .instructions {
+      text-align: center;
+      font-size: 18px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  #displayResults {
+    width: 210px;
+    min-height: 50px;
+    margin: 0 auto;
+    margin-top: 25px;
+    background-color: #f28e1f;
+    text-align: right;
+    font-size: 1.5em;
+    padding: 15px 10px 0 0;
+    color: #fff;
+
+  }
+  
+
+  #number1, #number2 {
+      width: 100px;
+      height: 100px;
+      margin: 2px;
+      font-size: 1em;
+      text-align: right;
+      background-color: #f3f3f4;
+  }
+
+  button {
+    width: 45px;
+    height: 45px;
+    margin: 2px;
+    font-size: 1.5em;
+    background-color: #f3f3f4;
+}
+
+  button:hover {
+      background-color: #ffcd96;
+  }
+
+  #clearBtn {
+    width: 90px; 
+    height: 45px;
+    font-size: 1.5em;
+} 
+>>>>>>> 6eee0ad371df9d369273bd6f7424c7ff04ea7c82
   
